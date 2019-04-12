@@ -1,0 +1,1 @@
+include ':app', ':pl_gif_integration'
